@@ -1,0 +1,7 @@
+{
+  "name": "AppCustom",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "ionic-angular"
+}
